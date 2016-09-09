@@ -1409,6 +1409,41 @@ overflow: hidden;
     height: 85px;
     margin-bottom: 5px;
   }
+h1 {    margin-top: 0px;
+    font-weight: 300;
+
+}
+
+
+.sep {
+padding-bottom: 20px;
+}
+.animation-element.slide-left.testimonial .header {
+
+    display: none;
+}
+#about .wow {
+    position: relative;
+    top: 0px !important;
+}
+#about .wow p {
+    font-size: 20px;
+    font-weight: 800;
+}
+#team {
+background-color: #0e0f29;
+}
+.coc {
+
+    color: white;
+}
+.line h3 {
+color:white;
+    font-weight: 500;
+}
+.line p {
+color:white;
+}
   
 }
 
